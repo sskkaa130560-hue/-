@@ -1,0 +1,6 @@
+{
+  "name": "В дорогу.",
+  "description": "Приложение для учета личных вещей в чемодане с удобной структуризацией по категориям и импортом списков из текстовых файлов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
